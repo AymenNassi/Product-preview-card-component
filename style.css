@@ -146,4 +146,12 @@ body {
         height: 100%;
     }
 
+    .container .content {
+        margin: auto;
+    }
+
+    .container button {
+        margin-bottom: 0px;
+    }
+
 }
